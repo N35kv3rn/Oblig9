@@ -1,0 +1,25 @@
+.nav {
+    height: 50px;
+    padding: 10px;
+    background: rgba(9, 31, 61, 0.324);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  
+  .nav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+  }
+  
+  .nav ul li a {
+    margin: 5px 15px;
+    font-size: 1.1rem;
+  }
+
+  .nav ul li a:hover {
+      text-decoration: underline;
+  }
