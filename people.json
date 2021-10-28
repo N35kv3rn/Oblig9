@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Marcus Neskvern",
+    "age": "21",
+    "gender": "Male",
+    "room": "H1011",
+    "id": 1635449300095
+  },
+  {
+    "name": "Andreas Lyngnes",
+    "age": "53",
+    "gender": "Male",
+    "room": "H1012",
+    "id": 1635449498745
+  },
+  {
+    "name": "Marcos Parcos",
+    "age": "22",
+    "gender": "Male",
+    "room": "H1005",
+    "id": 1635449369741
+  },
+  {
+    "name": "Jonas Bonas",
+    "age": "21",
+    "gender": "Male",
+    "room": "H1006",
+    "id": 1635449385627
+  },
+  {
+    "name": "Henriette Hegga ",
+    "age": "21",
+    "gender": "Slegga",
+    "room": "H1007",
+    "id": 1635449411374
+  },
+  {
+    "name": "Andrea Superduperunde",
+    "age": "22",
+    "gender": "Female",
+    "room": "H1008",
+    "id": 1635449428337
+  },
+  {
+    "name": "Marie Maupen",
+    "age": "21",
+    "gender": "Female",
+    "room": "H1009",
+    "id": 1635449440477
+  },
+  {
+    "name": "Nicolai Faome",
+    "age": "22",
+    "gender": "Betamale",
+    "room": "H1010",
+    "id": 1635449452301
+  },
+  {
+    "name": "Hermann Göring",
+    "age": "53",
+    "gender": "Evil",
+    "room": "Bunker",
+    "id": 1635449491616
+  }
+]

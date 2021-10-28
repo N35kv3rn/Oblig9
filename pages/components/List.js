@@ -8,8 +8,8 @@ const List = ({ people }) => {
     return(
         <div className={styles.grid}>
             
-            {people.data.map((person) => (
-                <Item person={person} />
+            {people.map((person, index) => (
+                <Item person={person} key={index} />
             ))}
         </div>
     )
